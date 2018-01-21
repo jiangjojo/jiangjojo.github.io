@@ -1,2 +1,0 @@
-# jiangjojo.github.io
-GitPagesDesign
